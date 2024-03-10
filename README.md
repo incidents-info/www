@@ -1,6 +1,10 @@
-# www
-www.incidents.info
+# [incidents.info](http://www.incidents.info)
 
++ [leadership.run](https://www.leadership.run)
++ [Infrastructure-Centric Solutions - Operations, Domains, DNS, CDN: Dynapsys](INFRASTRUCTURE.md)
++ [Security-Centric Solutions - Incidents Detection, Prevention, Monitoring - Incidents.info CyberWafare.info CyberPolygon.org ](SECURITY.md)
+
+  
 ### Zaawansowany Pakiet Ochrony - Budżet: 1000 - 9000PLN
 
 ## Co Oferujemy:
