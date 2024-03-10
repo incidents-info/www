@@ -4,7 +4,21 @@
 + [Infrastructure-Centric Solutions - Operations, Domains, DNS, CDN: Dynapsys](INFRASTRUCTURE.md)
 + [Security-Centric Solutions - Incidents Detection, Prevention, Monitoring - Incidents.info CyberWafare.info CyberPolygon.org ](SECURITY.md)
 
-  
+
+
+## [Wojna informacyjna – Wikipedia, wolna encyklopedia](https://pl.wikipedia.org/wiki/Wojna_informacyjna)
+
+**Wojna informacyjna** – zorganizowana aktywność zewnętrzna państwa polegająca na niszczeniu lub modyfikowaniu systemów komunikowania informacyjnego przeciwnika lub przepływających przez nie [informacji](https://pl.wikipedia.org/wiki/Informacja "Informacja"), prowadząca do osiągnięcia określonych celów politycznych, oraz aktywność zapewniająca ochronę własnych systemów informacyjnego komunikowania przed podobnym działaniem przeciwnika
+
+
+## [Wojna cybernetyczna – Wikipedia, wolna encyklopedia](https://pl.wikipedia.org/wiki/Wojna_cybernetyczna)
+
+**Wojna cybernetyczna** ([ang.](https://pl.wikipedia.org/wiki/J%C4%99zyk_angielski "Język angielski") _cyberwarfare_) – wykorzystanie [komputerów](https://pl.wikipedia.org/wiki/Komputer "Komputer"), [internetu](https://pl.wikipedia.org/wiki/Internet "Internet") i innych środków przechowywania lub rozprzestrzeniania informacji w celu przeprowadzania ataków na systemy informatyczne przeciwnika.
+ 
+ Wojnę cybernetyczną (której nie należy mylić z [wojną informacyjną](https://pl.wikipedia.org/wiki/Wojna_informacyjna "Wojna informacyjna")) od klasycznych wojen odróżnia środowisko pola walki – mają być nim systemy i sieci teleinformatyczne.
+
+
+
 ### Zaawansowany Pakiet Ochrony - Budżet: 1000 - 9000PLN
 
 ## Co Oferujemy:
