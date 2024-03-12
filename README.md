@@ -68,6 +68,9 @@ SaaS services
 + Modular Hardware
 
 
+### Remote Monits - [Tele Monits](http://www.telemonits.com)
+
+
 ### Infrastructure Monitoring - [Infra Monit](http://www.inframonit.com)
 
 + customer infrastructure alerts/monits and alerting on messanger
