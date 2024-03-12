@@ -34,6 +34,27 @@
 reports:
 + 2024.CyberWarfare.info
 
+Słowo "cyberwarfare" składa się z dwóch części: "cyber", odnoszące się do technologii cyfrowych i sieci komputerowych, oraz "warfare", co oznacza prowadzenie lub przygotowanie do wojny. Oto omówienie poszczególnych elementów tego pojęcia:
+
+**Cyber:**
+- **Technologia cyfrowa:** Odnosi się do komputerów, sieci i innych urządzeń cyfrowych, które są wykorzystywane do przesyłania, przetwarzania i przechowywania informacji.
+- **Sieci komputerowe:** Są to połączone systemy komputerów, które umożliwiają wymianę danych i współpracę na odległość.
+
+**Warfare:**
+- **Konflikt:** Stan rywalizacji lub walki między państwami, grupami lub organizacjami.
+- **Strategia:** Plan działania mający na celu osiągnięcie określonych celów w kontekście konfliktu.
+- **Taktyka:** Konkretne metody lub techniki stosowane w ramach strategii wojennej.
+
+
+
+#### Source: 
+
++ [Cyberwarfare - Wikipedia. ](https://en.wikipedia.org/wiki/Cyberwarfare)
++ [What is Cyber Warfare - Types, Examples & Mitigation - Imperva. ](https://www.imperva.com/learn/application-security/cyber-warfare/)
++ [Cyberwarfare and Conflicts of the Future - Cybersecurity Guide.](https://cybersecurityguide.org/resources/cyberwarfare/)
++ [Getty](https://media.gettyimages.com/photos/highranking-military-man-holds-a-briefing-to-a-team-of-government-picture-id1073609342?b=1&k=20&m=1073609342&s=612x612&w=0&h=J2s0QxdawdLWIpjahkMCcTGRj53O0cn4sStFOlSMHeI=)
+
+
 
 ### Be ready before ... - [CyberPolygon.org](http://www.CyberPolygon.org)
 SaaS services
