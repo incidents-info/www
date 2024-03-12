@@ -1,8 +1,9 @@
-# [incidents.info](http://www.incidents.info)
+# Security-Centric Solutions - Incidents Detection, Prevention, Monitoring - [incidents.info](http://www.incidents.info)
 
 + [leadership.run](https://www.leadership.run)
 + [Infrastructure-Centric Solutions - Operations, Domains, DNS, CDN: Dynapsys](INFRASTRUCTURE)
-Security-Centric Solutions - Incidents Detection, Prevention, Monitoring - Incidents.info CyberWafare.info CyberPolygon.org
++ CyberWafare.info
++ CyberPolygon.org 
 
 # [Security-Centric Solutions - Incidents Detection, Prevention, Monitoring- CyberWafare.info CyberPolygon.org ](SECURITY.md)
 
@@ -31,9 +32,9 @@ Security: Risk Driven Approach
 Community
 
 
-### CyberWafare.info
+### [cyberwarfare.info](http://www.cyberwarfare.info/)
 reports:
-+ 2024.CyberWafare.info
++ 2024.CyberWarfare.info
 
 
 ### CyberPolygon.org
