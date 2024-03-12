@@ -15,7 +15,12 @@
 + [Infrastructure-Centric Solutions - Operations, Domains, DNS, CDN: Dynapsys](http://leadership.run/INFRASTRUCTURE)
 
 + [SDLC: softreck.dev](http://leadership.run/SDLC)
-  
+
+## Books
+
+
++ [01_gorka.m.pdf](01_gorka.m.pdf) [Analiza cyberzagrożeń](https://wnus.usz.edu.pl/ap/file/article/download/19199.pdf)
+
 
 ## Solutions
 
