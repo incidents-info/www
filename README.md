@@ -14,11 +14,8 @@
 + [Software-Centric Solutions - Deployment Delivery: Dialogware](http://leadership.run/SOFTWARE)
 + [Infrastructure-Centric Solutions - Operations, Domains, DNS, CDN: Dynapsys](http://leadership.run/INFRASTRUCTURE)
 
-
-+ [SDLC](http://leadership.run/SDLC)
++ [SDLC: softreck.dev](http://leadership.run/SDLC)
   
-+ [SDLC](SDLC)
-
 
 ## Solutions
 
