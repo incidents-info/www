@@ -1,52 +1,43 @@
 # Security-Centric Solutions - Incidents Detection, Prevention, Monitoring - [incidents.info](http://www.incidents.info)
 
-+ [leadership.run](https://www.leadership.run)
-+ [Infrastructure-Centric Solutions - Operations, Domains, DNS, CDN: Dynapsys](INFRASTRUCTURE)
-+ CyberWafare.info
-+ CyberPolygon.org 
-
-# [Security-Centric Solutions - Incidents Detection, Prevention, Monitoring- CyberWafare.info CyberPolygon.org ](SECURITY.md)
-
-Security: Risk Driven Approach
-
-   
+      Security: Risk Driven Approach
+      
+  
 ## Menu
 
-+ [Human-Centric Solutions - Wetware: DigitalTwin](HUMAN.md)
-+ [Foundation-Centric Solutions - MODWARE: Dialogware, textware.org](FOUNDATION.md)
-+ [Agent-Centric Solutions - agent services: TeleOperator.info Edi.Chat, Gaiann, do.camera, sub.actor](AGENT.md)
-+ [Interface-Centric Solutions - audio, video, text: VoCo.Cam](INTERFACE.md)
-+ [Process-Centric Solutions - Automation](PROCESS.md)
-+ [Service-Centric Solutions - Software Requirement: SaaSisKing](SERVICE.md)
-+ [Software-Centric Solutions - Deployment Delivery: Dialogware](SOFTWARE.md)
-+ [Infrastructure-Centric Solutions - Operations, Domains, DNS, CDN: Dynapsys](INFRASTRUCTURE.md)
-+ [Security-Centric Solutions - Incidents Detection, Prevention, Monitoring- CyberWafare.info](SECURITY.md)
++ [Human-Centric Solutions - Wetware: DigitalTwin](https://www.leadership.run/HUMAN)
++ [Foundation-Centric Solutions - MODWARE: Dialogware, textware.org](https://www.leadership.run/FOUNDATION)
++ [Agent-Centric Solutions - agent services: TeleOperator.info Edi.Chat, Gaiann, do.camera, sub.actor](https://www.leadership.run/AGENT)
++ [Interface-Centric Solutions - audio, video, text: VoCo.Cam](https://www.leadership.run/INTERFACE)
++ [Process-Centric Solutions - Automation](https://www.leadership.run/PROCESS)
++ [Service-Centric Solutions - Software Requirement: SaaSisKing](https://www.leadership.run/SERVICE)
++ [Software-Centric Solutions - Deployment Delivery: Dialogware](https://www.leadership.run/SOFTWARE)
++ [Infrastructure-Centric Solutions - Operations, Domains, DNS, CDN: Dynapsys](https://www.leadership.run/INFRASTRUCTURE)
++ [Security-Centric Solutions - Incidents Detection, Prevention, Monitoring- CyberWafare.info](https://www.leadership.run/SECURITY)
   
-+ [SDLC](SDLC.md)
++ [SDLC](SDLC)
 
 
-      Community -> Standards -> Opensource -> Service
+## Solutions
 
 
-### 
-Community
-
-
-### [cyberwarfare.info](http://www.cyberwarfare.info/)
-reports:
-+ 2024.CyberWarfare.info
-
-
-### CyberPolygon.org
-SaaS services
-+ 
-
-### Incidents.info
+### Incidents Detection, Prevention, Monitoring - [incidents.info](http://www.incidents.info)
 + newsletter
 + blog
 
 
-### Militarity.com
+### Save resources during long term online business - [cyberwarfare.info](http://www.cyberwarfare.info/)
+reports:
++ 2024.CyberWarfare.info
+
+
+### Be ready before ... - [CyberPolygon.org](http://www.CyberPolygon.org)
+SaaS services
++ 
+
+
+### Modular Edge Computing Hardware - [MILITARITY](https://militarity.com/)
+
 + Modular Hardware
 
 
@@ -197,4 +188,4 @@ Wspomniane scenariusze podkreślają znaczenie zaawansowanych zabezpieczeń cybe
 
 ---
 
-+ [edit](https://github.com/incidents-info/www/edit/main/README.md)
++ [edit](https://github.com/incidents-info/www/edit/main/README)
