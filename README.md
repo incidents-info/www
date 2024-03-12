@@ -7,14 +7,16 @@
 
 + [Human-Centric Solutions - WETWARE.DEV: DigitalTwin](http://www.wetware.dev)
 + [Modular-Centric Solutions - MODWARE.ORG: Dialogware, textware.org](https://www.modware.org)
-+ [Agent-Centric Solutions - agent services: Edi.Chat, Gaiann, do.camera, sub.actor](http://leadership.run/AGENT)
++ [Agent-Centric Solutions - TeleOperator.org: agent services Gaiann.com, Edi.Chat, do.camera, sub.actor](http://www.TeleOperator.org)
 + [Interface-Centric Solutions - audio, video, text: VoCo.Cam](http://leadership.run/INTERFACE)
 + [Process-Centric Solutions - Automation](http://leadership.run/PROCESS)
-+ [Service-Centric Solutions - Software Requirement: SaaSisKing](http://leadership.run/SERVICE)
++ [Service-Centric Solutions - Software Requirement: SaaSisKing.com](http://www.SaaSisKing.com)
 + [Software-Centric Solutions - Deployment Delivery: Dialogware](http://leadership.run/SOFTWARE)
 + [Infrastructure-Centric Solutions - Operations, Domains, DNS, CDN: Dynapsys](http://leadership.run/INFRASTRUCTURE)
++ [Security-Centric Solutions - Incidents Detection, Prevention, Monitoring](http://www.incidents.info)
 
 + [SDLC: softreck.dev](http://leadership.run/SDLC)
+
 
 ## Books
 
@@ -213,4 +215,4 @@ Wspomniane scenariusze podkreślają znaczenie zaawansowanych zabezpieczeń cybe
 
 ---
 
-+ [edit](https://github.com/incidents-info/www/edit/main/README)
++ [edit](https://github.com/incidents-info/www/edit/main/README.md)
